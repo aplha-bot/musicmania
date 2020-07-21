@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
     //test comment
+    //has
     @Override
     protected void onCreate(Bundle savedInstanceState) {//abc
         super.onCreate(savedInstanceState);
