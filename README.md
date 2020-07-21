@@ -2,4 +2,4 @@
 group project
 anushka
 neha
-mayank kutta
+mayank
