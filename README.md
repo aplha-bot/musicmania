@@ -1,5 +1,5 @@
 # musicmania
 group project
-anushka
-neha
-mayank
+Anushka
+Neha
+Mayank
